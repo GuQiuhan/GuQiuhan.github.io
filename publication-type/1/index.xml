@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Qiuhan Gu&#39;s homepage</title>
+    <link>https://GuQiuhan.github.io/publication-type/1/</link>
+      <atom:link href="https://GuQiuhan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://GuQiuhan.github.io/media/icon_hu198ff93d7c855a8f579ef2d78be884e2_60315_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://GuQiuhan.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>LLM-Based Code Generation Method for Golang Compiler Testing</title>
+      <link>https://GuQiuhan.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://GuQiuhan.github.io/publication/conference-paper/</guid>
+      <description>&lt;!--
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.--&gt;
+&lt;!--
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+&lt;!--
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Create your slides in Markdown - click the _Slides_ button to check out the example.--&gt;
+&lt;!--
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+&lt;!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

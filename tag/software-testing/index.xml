@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Testing | Qiuhan Gu&#39;s homepage</title>
+    <link>https://GuQiuhan.github.io/tag/software-testing/</link>
+      <atom:link href="https://GuQiuhan.github.io/tag/software-testing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Testing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://GuQiuhan.github.io/media/icon_hu198ff93d7c855a8f579ef2d78be884e2_60315_512x512_fill_lanczos_center_3.png</url>
+      <title>Software Testing</title>
+      <link>https://GuQiuhan.github.io/tag/software-testing/</link>
+    </image>
+    
+    <item>
+      <title>LLM-Based Code Generation Method for Golang Compiler Testing</title>
+      <link>https://GuQiuhan.github.io/project/llm-based-code-generation-method-for-golang-compiler-testing/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://GuQiuhan.github.io/project/llm-based-code-generation-method-for-golang-compiler-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
