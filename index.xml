@@ -43,6 +43,98 @@
     </item>
     
     <item>
+      <title>Simple Drawing System Based on PyQt</title>
+      <link>https://GuQiuhan.github.io/project/simple-drawing-system-based-on-pyqt/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://GuQiuhan.github.io/project/simple-drawing-system-based-on-pyqt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection of Intracranial Aneurysms Based on Deep Learning</title>
+      <link>https://GuQiuhan.github.io/project/automatic-detection-of-intracranial-aneurysms-based-on-deep-learning/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://GuQiuhan.github.io/project/automatic-detection-of-intracranial-aneurysms-based-on-deep-learning/</guid>
+      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;The incidence of intracranial aneurysms in China population is about 7%, and the 24-hour mortality rate of subarachnoid hemorrhage caused by its rupture is as high as 37%. Intracranial aneurysm is a common cerebrovascular disease, and the incidence rate in Chinese is as high as 7%. It is called intracranial untimely bomb. Every year, about 2% of aneurysms rupture, which causes intracranial hemorrhage. The pre-hospital mortality rate of patients reaches 12%. Even after surgical treatment, the mortality rate is as high as 40%. The psychological burden of patients is large, and the relationship between doctors and patients is tense. Therefore, early and accurate detection is of great significance to the clinical management and prognosis of intracranial aneurysms.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;images/%E6%88%AA%E5%B1%8F2023-09-22%20%E4%B8%8B%E5%8D%884.36.50.png&#34; alt=&#34;截屏2023-09-22 下午4.36.50&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;CT angiography (CTA) is a noninvasive, convenient and reliable method for detecting intracranial aneurysms. However, its diagnostic performance is affected by many factors, such as equipment and work experience, which leads to great differences in diagnostic sensitivity of different studies. Deep learning technology has shown great potential in detecting lesions based on medical images. It is expected to improve the detection efficiency of intracranial aneurysms on CTA images and have a positive impact on clinical practice.&lt;/p&gt;
+&lt;h1 id=&#34;about-us&#34;&gt;About us&lt;/h1&gt;
+&lt;p&gt;Our team was formed in 2017, focusing on solving the above two core challenges of aneurysm, and achieved outstanding results. This year, a high-quality team of doctors and workers was established to realize the clinical transformation of scientific research results.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;images/%E6%88%AA%E5%B1%8F2023-09-22%20%E4%B8%8B%E5%8D%884.38.08.png&#34; alt=&#34;截屏2023-09-22 下午4.38.08&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;our-work&#34;&gt;Our Work&lt;/h1&gt;
+&lt;p&gt;In 2023, our work mainly focuses on the commercial application of this scientific research.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Set an online website for medical institutions to apply the model conveniently.&lt;/li&gt;
+&lt;li&gt;Focused on back-end development and improved the manipulation of Java web.&lt;/li&gt;
+&lt;li&gt;Designed a complete business plan for project implementation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below  is the demo of our website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;images/%E5%88%86%E6%9E%90%E7%AB%AF2%20%282%29-5372299.png&#34; alt=&#34;分析端2 (2)&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;For more infromation,  you can refer to our &lt;a href=&#34;https://book.yunzhan365.com/kvyuv/pudw/mobile/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bussiness proposal&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>https://GuQiuhan.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -182,6 +274,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Judgement of the Equivalence of Programs</title>
+      <link>https://GuQiuhan.github.io/project/equivalence-of-programs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://GuQiuhan.github.io/project/equivalence-of-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LLM-Based Code Generation Method for Golang Compiler Testing</title>
       <link>https://GuQiuhan.github.io/project/llm-based-code-generation-method-for-golang-compiler-testing/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -194,14 +294,6 @@ $$&lt;/p&gt;
       <link>https://GuQiuhan.github.io/project/moer-lite/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://GuQiuhan.github.io/project/moer-lite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>the Judgement of the Equivalence of Programs</title>
-      <link>https://GuQiuhan.github.io/project/equivalence-of-programs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://GuQiuhan.github.io/project/equivalence-of-programs/</guid>
       <description></description>
     </item>
     
