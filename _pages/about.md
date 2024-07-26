@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSCS Student at <a href='https://siebelschool.illinois.edu/'>UIUC, Siebel School of Computing and Data Science</a>.
 
 profile:
   align: right
