@@ -1,15 +1,12 @@
 "arXiv":
   color: "#828282"
 
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
 "FSE":
-  color: "#B71C1C"
+  url: https://www.esec-fse.org/
 
-"EMNLP":
-  color: "#2698BA"
-
-"KDD":
-  color: "#B509AC"
-
-"WWW":
-
-"AAAI":
+"Vision":
+  color: "#009f36"
