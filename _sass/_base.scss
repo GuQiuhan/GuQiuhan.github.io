@@ -1,4 +1,3 @@
-
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -371,10 +370,10 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
-  text-align: left;
+  text-align: center;
 
   .contact-icons {
-    font-size: 1.5rem;
+    font-size: 4rem;
 
     a {
       i::before {
