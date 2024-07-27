@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: more details can be found in <a href='https://github.com/GuQiuhan/'><font color='#0076df'>my github repository</font></a>.<br>
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Software Engineering, Computer Graphics]
 horizontal: false
 ---
 
