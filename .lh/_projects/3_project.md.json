@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_projects/3_project.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1759765461295,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1759765461295,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: Programs Equivalence Verification\ndescription: This is a program equivalence verification tool.\nimg: assets/img/judge.png\nredirect: https://github.com/GuQiuhan/Equivalence-of-Programs\nimportance: 5\ncategory: Software Engineering\n---\n"
+        }
+    ]
+}
