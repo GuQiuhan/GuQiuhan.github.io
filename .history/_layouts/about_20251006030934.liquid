@@ -67,12 +67,13 @@ layout: default
 
 
     <!-- Teaching -->
-    {% if site.teaching_section.enabled %}
+    {% if page.news and site.announcements.enabled %}
       <h2>
         <a href="{{ '/teaching/' | relative_url }}" style="color: inherit"><strong>Teaching</strong></a>
       </h2>
-      {% include teaching.liquid %}
+      {% include news.liquid limit=true %}
     {% endif %}
+
 
     <!-- Misc -->
     <h2><strong>Misc</strong></h2>

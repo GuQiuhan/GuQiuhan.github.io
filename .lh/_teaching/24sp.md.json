@@ -1,0 +1,26 @@
+{
+    "sourceFile": "_teaching/24sp.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1759738428982,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1759738449895,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -6,5 +6,5 @@\n inline: true\n related_posts: false\n ---\n \n-[UIUC]CS427: Software Engineering.\n+[NJU]CS: Advanced Python Programming.\n"
+                },
+                {
+                    "date": 1759738614874,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+---\n+layout: post\n+date: 2024-02-20 00:00:00 -0500\n+semester: \"24Spring\"\n+inline: true\n+related_posts: false\n+---\n+\n+[NJU]CS: Advanced Python Programming.\n"
+                }
+            ],
+            "date": 1759738428982,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ntitle: \"Teaching Assistant — CS427 Software Engineering\"\ndate: 2024-02-20 00:00:00 -0500\nsemester: \"24Spring\"\ninline: true\nrelated_posts: false\n---\n\n[UIUC]CS427: Software Engineering.\n"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2025-08-20 00:00:00 -0500
+semester: "25Fall"
+inline: true
+related_posts: false
+---
+
+[UIUC]CS427: Software Engineering.

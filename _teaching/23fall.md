@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2023-08-20 00:00:00 -0500
+semester: "23Fall"
+inline: true
+related_posts: false
+---
+
+[NJU]CS: Advanced Python Programming.

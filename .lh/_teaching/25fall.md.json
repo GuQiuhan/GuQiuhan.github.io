@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_teaching/25fall.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1759738635593,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1759738635593,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ndate: 2025-08-20 00:00:00 -0500\nsemester: \"25Fall\"\ninline: true\nrelated_posts: false\n---\n\n[UIUC]CS427: Software Engineering.\n"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "sourceFile": "_teaching/24fall.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1759738336694,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1759738426242,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,10 +1,10 @@\n ---\n layout: post\n title: \"Teaching Assistant — CS427 Software Engineering\"\n date: 2024-08-20 00:00:00 -0500\n-semester: \"24 Fall\"\n+semester: \"24Fall\"\n inline: true\n related_posts: false\n ---\n \n-Serving as a Teaching Assistant for **CS427: Software Engineering** at UIUC during the 24 Fall semester.\n+[UIUC]CS427: Software Engineering.\n"
+                },
+                {
+                    "date": 1759738585857,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n ---\n layout: post\n-title: \"Teaching Assistant — CS427 Software Engineering\"\n+title: \"Teaching Assistant\"\n date: 2024-08-20 00:00:00 -0500\n semester: \"24Fall\"\n inline: true\n related_posts: false\n"
+                },
+                {
+                    "date": 1759738615699,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+---\n+layout: post\n+date: 2024-08-20 00:00:00 -0500\n+semester: \"24Fall\"\n+inline: true\n+related_posts: false\n+---\n+\n+[UIUC]CS427: Software Engineering.\n"
+                }
+            ],
+            "date": 1759738336694,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ntitle: \"Teaching Assistant — CS427 Software Engineering\"\ndate: 2024-08-20 00:00:00 -0500\nsemester: \"24 Fall\"\ninline: true\nrelated_posts: false\n---\n\nServing as a Teaching Assistant for **CS427: Software Engineering** at UIUC during the 24 Fall semester.\n"
+        }
+    ]
+}
