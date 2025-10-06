@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1759739162355,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1759739693408,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -191,8 +191,13 @@\n     defaults:\n       layout: post\n     output: true\n     permalink: /:collection/:title/\n+  teaching:\n+    defaults:\n+      layout: post\n+    output: true\n+    permalink: /:collection/:title/\n   projects:\n     output: true\n     permalink: /:collection/:title/\n \n@@ -208,9 +213,9 @@\n \n teaching_section:\n   enabled: true\n   scrollable: false\n-  \n+\n # -----------------------------------------------------------------------------\n # Jekyll settings\n # -----------------------------------------------------------------------------\n \n"
                 }
             ],
             "date": 1759739162355,
