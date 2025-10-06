@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1759738336694,
@@ -20,6 +20,10 @@
                 {
                     "date": 1759738615699,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,9 @@\n+---\n+layout: post\n+date: 2024-08-20 00:00:00 -0500\n+semester: \"24Fall\"\n+inline: true\n+related_posts: false\n+---\n+\n+[UIUC]CS427: Software Engineering.\n"
+                },
+                {
+                    "date": 1759740098833,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,15 +5,5 @@\n inline: true\n related_posts: false\n ---\n \n-[UIUC]CS427: Software Engineering.\n----\n-layout: post\n-title: \"Teaching Assistant\"\n-date: 2024-08-20 00:00:00 -0500\n-semester: \"24Fall\"\n-inline: true\n-related_posts: false\n----\n-\n-[UIUC]CS427: Software Engineering.\n+[UIUC]CS427: Software Engineering.(Teaching Assistant)\n"
                 }
             ],
             "date": 1759738336694,
