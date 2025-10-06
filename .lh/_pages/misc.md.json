@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 4,
+            "activePatchIndex": 5,
             "patches": [
                 {
                     "date": 1759735600495,
@@ -24,6 +24,10 @@
                 {
                     "date": 1759736842093,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,36 +33,15 @@\n </p>\n \n <div class=\"gallery\">\n   <img src=\"/assets/img/dessert1.jpg\" alt=\"Cake 1\" width=\"300\">\n-  <img src=\"/assets/img/dessert2.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert3.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert4.jpg\" alt=\"Cake 2\" width=\"300\">\n   <img src=\"/assets/img/dessert6.jpg\" alt=\"Cake 2\" width=\"300\">\n   <img src=\"/assets/img/dessert7.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert8.jpg\" alt=\"Cake 2\" width=\"300\">\n   <img src=\"/assets/img/dessert10.jpg\" alt=\"Cake 2\" width=\"300\">\n   <img src=\"/assets/img/dessert11.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert3.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert5.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert9.jpg\" alt=\"Cake 1\" width=\"300\">\n-</div>\n----\n-layout: page\n-title: \"Desserts\"\n-permalink: /misc/\n----\n-\n-Here are some desserts I made 🍰.  \n-\n-<div class=\"gallery\">\n-  <img src=\"/assets/img/dessert1.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert2.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert4.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert6.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert7.jpg\" alt=\"Cake 1\" width=\"300\">\n-  <img src=\"/assets/img/dessert8.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert10.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert11.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert3.jpg\" alt=\"Cake 1\" width=\"300\">\n-  <img src=\"/assets/img/dessert5.jpg\" alt=\"Cake 1\" width=\"300\">\n-  <img src=\"/assets/img/dessert9.jpg\" alt=\"Cake 1\" width=\"300\">\n </div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1759737145019,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -28,9 +28,9 @@\n }\n </style>\n \n <p>\n-  Here are some of my favorite desserts 🍰.\n+  Here are some of my favorite homemade desserts 🍰.\n </p>\n \n <div class=\"gallery\">\n   <img src=\"/assets/img/dessert1.jpg\" alt=\"Cake 1\" width=\"300\">\n"
                 }
             ],
             "date": 1759735600495,
