@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_pages/publications.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1759764920399,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1759764920399,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\npermalink: /publications/\ntitle: publications\ndescription: more details can be found in <a href='https://scholar.google.com/citations?user=eH4RdhYAAAAJ&hl=en'><font color='#0076df'>my google scholar profile</font></a>.<br>(* indicates equal contribution. ** indicates corresponding author.)\nnav: false\nnav_order: 2\n---\n\n<!-- _pages/publications.md -->\n\n<!-- Bibsearch Feature -->\n\n{% include bib_search.liquid %}\n\n<div class=\"publications\">\n\n{% bibliography %}\n\n</div>\n\n"
+        }
+    ]
+}
