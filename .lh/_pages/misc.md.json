@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 3,
             "patches": [
                 {
                     "date": 1759735600495,
@@ -16,6 +16,10 @@
                 {
                     "date": 1759736500076,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,14 +8,14 @@\n \n <div class=\"gallery\">\n   <img src=\"/assets/img/dessert1.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert2.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert3.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert4.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert5.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert6.jpg\" alt=\"Cake 2\" width=\"300\">\n   <img src=\"/assets/img/dessert7.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert8.jpg\" alt=\"Cake 2\" width=\"300\">\n-  <img src=\"/assets/img/dessert9.jpg\" alt=\"Cake 1\" width=\"300\">\n   <img src=\"/assets/img/dessert10.jpg\" alt=\"Cake 2\" width=\"300\">\n   <img src=\"/assets/img/dessert11.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert3.jpg\" alt=\"Cake 1\" width=\"300\">\n+  <img src=\"/assets/img/dessert5.jpg\" alt=\"Cake 1\" width=\"300\">\n+  <img src=\"/assets/img/dessert9.jpg\" alt=\"Cake 1\" width=\"300\">\n </div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1759736708762,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,47 @@\n+---\n+layout: page\n+title: \"Desserts\"\n+permalink: /misc/\n+---\n+\n+<style>\n+/* ---- Simple responsive 3-column gallery ---- */\n+.gallery {\n+  display: grid;\n+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n+  gap: 15px;                 /* 行列间距 */\n+  justify-items: center;     /* 单元格内水平居中 */\n+  margin-top: 20px;\n+}\n+\n+.gallery img {\n+  width: 100%;\n+  max-width: 300px;          /* 控制单图最大宽度 */\n+  height: auto;\n+  border-radius: 10px;       /* 可选：圆角 */\n+  box-shadow: 0 2px 6px rgba(0,0,0,0.08); /* 可选：轻阴影 */\n+  transition: transform 0.2s ease-in-out;\n+}\n+\n+.gallery img:hover {\n+  transform: scale(1.03);    /* 悬停微放大 */\n+}\n+</style>\n+\n+<p>\n+  Here are some of my favorite desserts 🍰.\n+</p>\n+\n+<div class=\"gallery\">\n+  <img src=\"/assets/img/dessert1.jpg\" alt=\"Cake 1\" width=\"300\">\n+  <img src=\"/assets/img/dessert2.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert4.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert6.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert7.jpg\" alt=\"Cake 1\" width=\"300\">\n+  <img src=\"/assets/img/dessert8.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert10.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert11.jpg\" alt=\"Cake 2\" width=\"300\">\n+  <img src=\"/assets/img/dessert3.jpg\" alt=\"Cake 1\" width=\"300\">\n+  <img src=\"/assets/img/dessert5.jpg\" alt=\"Cake 1\" width=\"300\">\n+  <img src=\"/assets/img/dessert9.jpg\" alt=\"Cake 1\" width=\"300\">\n+</div>\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1759735600495,
