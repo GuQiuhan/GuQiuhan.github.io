@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_pages/about.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1759968720279,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1759968720279,
+            "name": "Commit-0",
+            "content": "---\nlayout: about\ntitle: about\npermalink: /\nsubtitle: MSCS Student at <a href='https://siebelschool.illinois.edu/'>UIUC, Siebel School of Computing and Data Science</a>.\n\nprofile:\n  align: right\n  image: profile.jpg\n  image_circular: false # crops the image to make it circular\n  more_info: \n\nnews: true # includes a list of news items\nselected_papers: true # includes a list of papers marked as \"selected={true}\"\n# selected_projects: true # includes a list of projects marked as \"selected={true}\"\nsocial: true # includes social icons at the bottom of the page\n---\n\nWelcome! I am Master of Science in Computer Science (MSCS) student at [the University of Illinois Urbana Champaign](https://illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). I was honored to be advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/) before. Previously, I obtained my B.S. in Computer Science from Nanjing University, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). \n\nMy research interests lie in the intersection of Formal Methods and Machine Learning. Currently I'm focusing on abstract-interpretation-based trustworthy AI systems.\n\n"
+        }
+    ]
+}
