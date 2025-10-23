@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am Master of Science in Computer Science (MSCS) student at [the University of Illinois Urbana Champaign](https://illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). I was advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/) before. Previously, I obtained my B.S. in Computer Science from Nanjing University, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). 
+Welcome! I am Master of Science in Computer Science (MSCS) student at [the University of Illinois Urbana Champaign](https://illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). Previously, I obtained my B.S. in Computer Science from Nanjing University, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). 
 
 My research interests lie in the intersection of Formal Methods and Machine Learning. Currently I'm focusing on abstract-interpretation-based trustworthy AI systems.
 
