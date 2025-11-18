@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_news/announcement_3.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1763495309257,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1763495309257,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ndate: 2025-11-17 15:59:00-0400\ninline: true\nrelated_posts: false\n---\n\n⛵️Preprint of our latest work on abstract interpreters synthesis is now available on [arXiv](https://www.arxiv.org/abs/2511.13663)."
+        }
+    ]
+}
