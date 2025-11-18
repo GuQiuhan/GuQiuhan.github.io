@@ -67,7 +67,7 @@ layout: default
 
 
     <!-- Teaching -->
-    {% if site.teaching.enabled %}
+    {% if site.teaching_section.enabled %}
       <h2>
         <a href="{{ '/teaching/' | relative_url }}" style="color: inherit"><strong>Teaching</strong></a>
       </h2>
@@ -81,6 +81,16 @@ layout: default
       <a href="{{ '/misc/' | relative_url }}">[photos]</a>
     </p>
 
+
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
+    {% endif %}
+
+    <!-- Visitors -->
+    <h2><strong></strong></h2>
+    <div class="visitor-map">
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?c=......"></script>
+    </div>
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}

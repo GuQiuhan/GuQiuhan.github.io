@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 8,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1759734488077,
@@ -40,6 +40,14 @@
                 {
                     "date": 1759739227450,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -66,9 +66,9 @@\n     {% endif %}\n \n \n     <!-- Teaching -->\n-    {% if site.teaching.enabled %}\n+    {% if site.teaching_section.enabled %}\n       <h2>\n         <a href=\"{{ '/teaching/' | relative_url }}\" style=\"color: inherit\"><strong>Teaching</strong></a>\n       </h2>\n       {% include teaching.liquid %}\n"
+                },
+                {
+                    "date": 1763505899493,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -85,7 +85,17 @@\n     {% if site.newsletter.enabled and site.footer_fixed %}\n       {% include scripts/newsletter.liquid center=true %}\n     {% endif %}\n \n+    <!-- Visitors -->\n+    <h2><strong></strong></h2>\n+    <div class=\"visitor-map\">\n+      <script type=\"text/javascript\" id=\"mapmyvisitors\" src=\"https://mapmyvisitors.com/map.js?c=......\"></script>\n+    </div>\n \n+    {% if site.newsletter.enabled and site.footer_fixed %}\n+      {% include scripts/newsletter.liquid center=true %}\n+    {% endif %}\n+\n+\n   </article>\n </div>\n"
+                },
+                {
+                    "date": 1763505911290,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -88,9 +88,9 @@\n \n     <!-- Visitors -->\n     <h2><strong></strong></h2>\n     <div class=\"visitor-map\">\n-      <script type=\"text/javascript\" id=\"mapmyvisitors\" src=\"https://mapmyvisitors.com/map.js?c=......\"></script>\n+      <script type=\"text/javascript\" id=\"mapmyvisitors\" src=\"https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=8dbcdd&ct=f2eee7&cmo=e08686&cmn=26a526\"></script>\n     </div>\n \n     {% if site.newsletter.enabled and site.footer_fixed %}\n       {% include scripts/newsletter.liquid center=true %}\n"
                 }
             ],
             "date": 1759734488077,

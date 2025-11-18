@@ -86,6 +86,16 @@ layout: default
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
 
+    <!-- Visitors -->
+    <h2><strong></strong></h2>
+    <div class="visitor-map">
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=8dbcdd&ct=f2eee7&cmo=e08686&cmn=26a526"></script>
+    </div>
+
+    {% if site.newsletter.enabled and site.footer_fixed %}
+      {% include scripts/newsletter.liquid center=true %}
+    {% endif %}
+
 
   </article>
 </div>
