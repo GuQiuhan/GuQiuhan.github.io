@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1763495309257,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1763495702355,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,5 +4,5 @@\n inline: true\n related_posts: false\n ---\n \n-⛵️Preprint of our latest work on abstract interpreters synthesis is now available on [arXiv](https://www.arxiv.org/abs/2511.13663).\n\\ No newline at end of file\n+⛵️Preprint of our latest work on Abstract Interpreters Synthesis is now available on [arXiv](https://www.arxiv.org/abs/2511.13663).\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1763495309257,
