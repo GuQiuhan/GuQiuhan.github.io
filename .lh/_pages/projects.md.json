@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_pages/projects.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1763492966961,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1763492966961,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: Projects\npermalink: /projects/\ndescription: more details can be found in <a href='https://github.com/GuQiuhan/'><font color='#0076df'>my github repository</font></a>.<br>\nnav: true\nnav_order: 3\ndisplay_categories: [Software Engineering, Computer Graphics]\nhorizontal: false\n---\n\n<!-- pages/projects.md -->\n<div class=\"projects\">\n{% if site.enable_project_categories and page.display_categories %}\n  <!-- Display categorized projects -->\n  {% for category in page.display_categories %}\n  <a id=\"{{ category }}\" href=\".#{{ category }}\">\n    <h2 class=\"category\">{{ category }}</h2>\n  </a>\n  {% assign categorized_projects = site.projects | where: \"category\", category %}\n  {% assign sorted_projects = categorized_projects | sort: \"importance\" %}\n  <!-- Generate cards for each project -->\n  {% if page.horizontal %}\n  <div class=\"container\">\n    <div class=\"row row-cols-1 row-cols-md-2\">\n    {% for project in sorted_projects %}\n      {% include projects_horizontal.liquid %}\n    {% endfor %}\n    </div>\n  </div>\n  {% else %}\n  <div class=\"row row-cols-1 row-cols-md-3\">\n    {% for project in sorted_projects %}\n      {% include projects.liquid %}\n    {% endfor %}\n  </div>\n  {% endif %}\n  {% endfor %}\n\n{% else %}\n\n<!-- Display projects without categories -->\n\n{% assign sorted_projects = site.projects | sort: \"importance\" %}\n\n  <!-- Generate cards for each project -->\n\n{% if page.horizontal %}\n\n  <div class=\"container\">\n    <div class=\"row row-cols-1 row-cols-md-2\">\n    {% for project in sorted_projects %}\n      {% include projects_horizontal.liquid %}\n    {% endfor %}\n    </div>\n  </div>\n  {% else %}\n  <div class=\"row row-cols-1 row-cols-md-3\">\n    {% for project in sorted_projects %}\n      {% include projects.liquid %}\n    {% endfor %}\n  </div>\n  {% endif %}\n{% endif %}\n</div>\n"
+        }
+    ]
+}

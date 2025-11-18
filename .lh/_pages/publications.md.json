@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1759764920399,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1763492965861,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n ---\n layout: page\n permalink: /publications/\n-title: publications\n+title: Publications\n description: more details can be found in <a href='https://scholar.google.com/citations?user=eH4RdhYAAAAJ&hl=en'><font color='#0076df'>my google scholar profile</font></a>.<br>(* indicates equal contribution. ** indicates corresponding author.)\n nav: false\n nav_order: 2\n ---\n"
                 }
             ],
             "date": 1759764920399,
