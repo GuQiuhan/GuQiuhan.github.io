@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 25,
+            "activePatchIndex": 26,
             "patches": [
                 {
                     "date": 1759734488077,
@@ -108,6 +108,10 @@
                 {
                     "date": 1763575977516,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -96,11 +96,8 @@\n         </script>\n       {% endraw %}\n     </div>\n \n-    <p style=\"text-align:center; font-size: 0.9rem; color:#666;\">\n-  Figure: Visitor map (updated automatically)\n-    </p>\n \n \n \n   </article>\n"
+                },
+                {
+                    "date": 1763576402450,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -88,14 +88,14 @@\n       {% include scripts/newsletter.liquid center=true %}\n     {% endif %}\n \n \n-    <div class=\"visitor-map\">\n-      {% raw %}\n-        <script type='text/javascript' id='mapmyvisitors'\n-          src='https://mapmyvisitors.com/map.js?cl=ffffff&w=288&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=5db0ea'>\n-        </script>\n-      {% endraw %}\n+    <!-- Visitors Map -->\n+    <div class=\"visitor-map\" style=\"margin-top: 20px;\">\n+    {% raw %}\n+    <script type='text/javascript' id='mapmyvisitors'\n+    src='https://mapmyvisitors.com/map.js?cl=f4e0e0&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=78b9e8&cmo=ea902c&cmn=4dbc4d'></script>\n+    {% endraw %}\n     </div>\n \n \n \n"
                 }
             ],
             "date": 1759734488077,
