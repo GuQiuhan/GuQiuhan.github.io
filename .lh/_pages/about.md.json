@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 4,
+            "activePatchIndex": 5,
             "patches": [
                 {
                     "date": 1759968720279,
@@ -24,6 +24,10 @@
                 {
                     "date": 1763520678343,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n subtitle: MSCS Student at <a href='https://siebelschool.illinois.edu/'>UIUC, Siebel School of Computing and Data Science</a>.\n \n profile:\n   align: right\n-  image: profile.png\n+  image: profile.jpg\n   image_circular: false # crops the image to make it circular\n   more_info: \n \n news: true # includes a list of news items\n"
+                },
+                {
+                    "date": 1763521068657,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n subtitle: MSCS Student at <a href='https://siebelschool.illinois.edu/'>UIUC, Siebel School of Computing and Data Science</a>.\n \n profile:\n   align: right\n-  image: profile.jpg\n+  image: assets/img/profile.jpg\n   image_circular: false # crops the image to make it circular\n   more_info: \n \n news: true # includes a list of news items\n"
                 }
             ],
             "date": 1759968720279,
