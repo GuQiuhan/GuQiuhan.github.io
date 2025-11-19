@@ -88,18 +88,11 @@ layout: default
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
 
-    <div style="text-align:center; margin-top: 20px;">
-      <div class="visitor-map">
-      {% raw %}
-        <script type='text/javascript' id='mapmyvisitors'
-          src='https://mapmyvisitors.com/map.js?cl=ffffff&w=288&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=5db0ea'>
-        </script>
-      {% endraw %}
-      </div>
-
-      <div style="font-size:0.85rem; color:#555; margin-top:6px;">
-        <em>Figure: Visitor map (updated automatically)</em>
-      </div>
+    <!-- Visitors Map -->
+    <div class="visitor-map" style="margin-top: 20px;">
+    {% raw %}
+      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=288&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=5db0ea'></script>
+    {% endraw %}
     </div>
 
 
