@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 13,
+            "activePatchIndex": 14,
             "patches": [
                 {
                     "date": 1759734488077,
@@ -60,6 +60,10 @@
                 {
                     "date": 1763521252107,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -88,9 +88,9 @@\n \n     <!-- Visitors -->\n     <h2><strong></strong></h2>\n     <div class=\"visitor-map\">\n-        <script type=\"text/javascript\" id=\"mapmyvisitors\" src=\"https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=tt&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=8dbcdd&ct=f2eee7&cmo=e08686&cmn=26a526\"></script> \n+        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=81b4d8&cmo=f28282&cmn=5aaa5a'></script>\n      </div>\n \n     {% if site.newsletter.enabled and site.footer_fixed %}\n       {% include scripts/newsletter.liquid center=true %}\n"
+                },
+                {
+                    "date": 1763521865285,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -85,17 +85,9 @@\n     {% if site.newsletter.enabled and site.footer_fixed %}\n       {% include scripts/newsletter.liquid center=true %}\n     {% endif %}\n \n-    <!-- Visitors -->\n-    <h2><strong></strong></h2>\n-    <div class=\"visitor-map\">\n-        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=81b4d8&cmo=f28282&cmn=5aaa5a'></script>\n-     </div>\n \n-    {% if site.newsletter.enabled and site.footer_fixed %}\n-      {% include scripts/newsletter.liquid center=true %}\n-    {% endif %}\n \n \n   </article>\n </div>\n"
                 }
             ],
             "date": 1759734488077,
