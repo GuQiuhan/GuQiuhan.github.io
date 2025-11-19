@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 19,
+            "activePatchIndex": 20,
             "patches": [
                 {
                     "date": 1759734488077,
@@ -84,6 +84,10 @@
                 {
                     "date": 1763523850230,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -81,16 +81,10 @@\n       <a href=\"{{ '/misc/' | relative_url }}\">[photos]</a>\n     </p>\n \n \n-    <!-- Visitors -->\n-    <h2><strong></strong></h2>\n-    {% raw %}\n-    <div class=\"visitor-map\">\n-        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=81b4d8&cmo=f28282&cmn=5aaa5a'></script>\n-    {% endraw %}\n-    </div>\n \n+\n     {% if site.newsletter.enabled and site.footer_fixed %}\n       {% include scripts/newsletter.liquid center=true %}\n     {% endif %}\n \n"
+                },
+                {
+                    "date": 1763574478318,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -87,7 +87,15 @@\n     {% if site.newsletter.enabled and site.footer_fixed %}\n       {% include scripts/newsletter.liquid center=true %}\n     {% endif %}\n \n+    <!-- Visitors Map -->\n+    <div class=\"visitor-map\" style=\"margin-top: 20px;\">\n+    {% raw %}\n+    <script type='text/javascript' id='mapmyvisitors'\n+    src='https://mapmyvisitors.com/map.js?cl=f4e0e0&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=78b9e8&cmo=ea902c&cmn=4dbc4d'></script>\n+    {% endraw %}\n+    </div>\n \n+\n   </article>\n </div>\n"
                 }
             ],
             "date": 1759734488077,
