@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 27,
+            "activePatchIndex": 28,
             "patches": [
                 {
                     "date": 1759734488077,
@@ -116,6 +116,10 @@
                 {
                     "date": 1763577319054,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -89,12 +89,12 @@\n     {% endif %}\n \n \n     <!-- Visitors Map -->\n-    <div class=\"visitor-map\" style=\"margin-top: 20px;\">\n+    <div class=\"visitor-map\" style=\"margin-top: 20px; clear: both; text-align: center;\">\n     {% raw %}\n-    <script type='text/javascript' id='mapmyvisitors'\n-    src='https://mapmyvisitors.com/map.js?cl=f4e0e0&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=78b9e8&cmo=ea902c&cmn=4dbc4d'></script>\n+      <script type='text/javascript' id='mapmyvisitors'\n+      src='https://mapmyvisitors.com/map.js?cl=f4e0e0&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=78b9e8&cmo=ea902c&cmn=4dbc4d'></script>\n     {% endraw %}\n     </div>\n \n \n"
+                },
+                {
+                    "date": 1763577668486,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -88,17 +88,14 @@\n       {% include scripts/newsletter.liquid center=true %}\n     {% endif %}\n \n \n-    <!-- Visitors Map -->\n-    <div class=\"visitor-map\" style=\"margin-top: 20px; clear: both; text-align: center;\">\n-    {% raw %}\n-      <script type='text/javascript' id='mapmyvisitors'\n-      src='https://mapmyvisitors.com/map.js?cl=f4e0e0&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=78b9e8&cmo=ea902c&cmn=4dbc4d'></script>\n-    {% endraw %}\n-    </div>\n-\n-\n-\n-\n   </article>\n </div>\n+\n+<!-- Visitors Map -->\n+<div class=\"visitor-map\" style=\"margin-top: 20px; text-align:center; clear: both;\">\n+{% raw %}\n+  <script type='text/javascript' id='mapmyvisitors'\n+  src='https://mapmyvisitors.com/map.js?cl=f4e0e0&w=250&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=78b9e8&cmo=ea902c&cmn=4dbc4d'></script>\n+{% endraw %}\n+</div>\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1759734488077,
