@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_layouts/default.liquid",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1763578914413,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1763578914413,
+            "name": "Commit-0",
+            "content": "<!doctype html>\n<html lang=\"{{ site.lang }}\">\n  <!-- Head -->\n  <head>\n    {% if page.redirect %}\n      {% if page.redirect == true %}\n        {% assign redirect = site.baseurl | append: '/' %}\n      {% elsif page.redirect contains '://' %}\n        {% assign redirect = page.redirect %}\n      {% else %}\n        {% assign redirect = page.redirect | relative_url %}\n      {% endif %}\n      <meta http-equiv=\"refresh\" content=\"3; url={{ redirect }}\">\n    {% endif %}\n    {% include head.liquid %}\n  </head>\n\n  <!-- Body -->\n  <body class=\"{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}\">\n    <!-- Header -->\n    {% include header.liquid %}\n\n    <!-- Content -->\n    <div class=\"container mt-5\" role=\"main\">\n      {% if page.toc and page.toc.sidebar %}\n        {% if page.toc.sidebar == 'right' %}\n          <div class=\"row\">\n            <!-- main content area -->\n            <div class=\"col-sm-9\">{{ content }}</div>\n            <!-- sidebar, which will move to the top on a small screen -->\n            <div class=\"col-sm-3\">\n              <nav id=\"toc-sidebar\" class=\"sticky-top\"></nav>\n            </div>\n          </div>\n        {% else %}\n          <div class=\"row\">\n            <!-- sidebar, which will move to the top on a small screen -->\n            <div class=\"col-sm-3\">\n              <nav id=\"toc-sidebar\" class=\"sticky-top\"></nav>\n            </div>\n            <!-- main content area -->\n            <div class=\"col-sm-9\">{{ content }}</div>\n          </div>\n        {% endif %}\n      {% else %}\n        {{ content }}\n      {% endif %}\n    </div>\n\n    <!-- Footer -->\n    {% include footer.liquid %}\n\n    <!-- JavaScripts -->\n    {% include scripts/jquery.liquid %}\n    {% include scripts/bootstrap.liquid %}\n    {% include scripts/masonry.liquid %}\n    {% include scripts/mermaid.liquid %}\n    {% include scripts/diff2html.liquid %}\n    {% include scripts/leaflet.liquid %}\n    {% include scripts/chartjs.liquid %}\n    {% include scripts/echarts.liquid %}\n    {% include scripts/vega.liquid %}\n    {% include scripts/tikzjax.liquid %}\n    {% include scripts/typograms.liquid %}\n    {% include scripts/misc.liquid %}\n    {% include scripts/badges.liquid %}\n    {% include scripts/mathjax.liquid %}\n    {% include scripts/pseudocode.liquid %}\n    {% include scripts/analytics.liquid %}\n    {% include scripts/progressBar.liquid %}\n    {% include scripts/wechatModal.liquid %}\n    {% include scripts/imageLayouts.liquid %}\n    {% include scripts/jekyll_tabs.liquid %}\n    {% include scripts/back_to_top.liquid %}\n    {% include scripts/search.liquid %}\n  </body>\n</html>\n"
+        }
+    ]
+}
