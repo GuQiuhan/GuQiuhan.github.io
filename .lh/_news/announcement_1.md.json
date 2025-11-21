@@ -1,0 +1,26 @@
+{
+    "sourceFile": "_news/announcement_1.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1763761717155,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1763761724960,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n inline: true\n related_posts: false\n ---\n \n-Publish my first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) on ESEC/FSE! 😊\n+Publish my first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) on ESEC/FSE'23! 😊\n \n \n \n Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to7, 2023, in San Francisco. \n"
+                },
+                {
+                    "date": 1763761752747,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,5 +8,5 @@\n Publish my first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) on ESEC/FSE'23! 😊\n \n \n \n-Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to7, 2023, in San Francisco. \n+Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to 7, 2023, in San Francisco. \n"
+                }
+            ],
+            "date": 1763761717155,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ndate: 2023-12-7 15:59:00-0400\ninline: true\nrelated_posts: false\n---\n\nPublish my first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) on ESEC/FSE! 😊\n\n\n\nWin the Student Research Competition (Undergraduate Division) at the conference held from December 3 to7, 2023, in San Francisco. \n"
+        }
+    ]
+}
