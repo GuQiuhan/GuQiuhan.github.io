@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1763761717155,
@@ -20,6 +20,10 @@
                 {
                     "date": 1763762265865,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n inline: true\n related_posts: false\n ---\n \n-Publish my first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) on ESEC/FSE'23! 😊\n+Publish the first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) in my life on ESEC/FSE! 😊\n \n \n \n-Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to 7, 2023, in San Francisco. \n+Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to7, 2023, in San Francisco. \n"
+                },
+                {
+                    "date": 1763762403054,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,9 +4,9 @@\n inline: true\n related_posts: false\n ---\n \n-Publish the first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) in my life on ESEC/FSE! 😊\n+Publish my first [paper](https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing) on ESEC/FSE! 😊\n \n \n \n-Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to7, 2023, in San Francisco. \n+Win the Student Research Competition (Undergraduate Division) at the conference held from December 3 to 7, 2023, in San Francisco. \n"
                 }
             ],
             "date": 1763761717155,
