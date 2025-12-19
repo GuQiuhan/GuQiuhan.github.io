@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 7,
+            "activePatchIndex": 8,
             "patches": [
                 {
                     "date": 1763578914413,
@@ -36,6 +36,10 @@
                 {
                     "date": 1766167894966,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -81,9 +81,9 @@\n     {%- endcomment -%}\n     {% if page.url == \"/\" or page.permalink == \"/\" %}\n     <div class=\"visitor-map\"\n      style=\"margin-top:40px; text-align:center; clear:both;\n-            width:100%; min-height:260px; display:block;\">\n+            width:100%; min-height:2300px; display:block;\">\n     {% raw %}\n       <script type='text/javascript' id='mapmyvisitors'\n         src=\"https://mapmyvisitors.com/map.js?cl=ffffff&w=360&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=5db0ea\">\n       </script>\n"
+                },
+                {
+                    "date": 1766168236463,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -79,15 +79,11 @@\n     {%- comment -%}\n     Visitors Map: only show on the about page (adjust page.url as needed)\n     {%- endcomment -%}\n     {% if page.url == \"/\" or page.permalink == \"/\" %}\n-    <div class=\"visitor-map\"\n-     style=\"margin-top:40px; text-align:center; clear:both;\n-            width:100%; min-height:2300px; display:block;\">\n+    <div class=\"visitor-map\" style=\"margin-top: 40px; text-align:center; clear:both;\">\n     {% raw %}\n-      <script type='text/javascript' id='mapmyvisitors'\n-        src=\"https://mapmyvisitors.com/map.js?cl=ffffff&w=360&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=5db0ea\">\n-      </script>\n+      <script type=\"text/javascript\" id=\"mapmyvisitors\" src=\"https://mapmyvisitors.com/map.js?cl=ffffff&w=360&t=n&d=XnZ5vjEzEm4NRjzqEjeNrYo2eLd2AZeYonskmBl7enU&co=5dade5\"></script>\n     {% endraw %}\n       <div style=\"margin-top:6px; font-size:0.85rem; color:#555;\">\n         <em>Figure: Visitor map (updated automatically).</em>\n       </div>\n"
                 }
             ],
             "date": 1763578914413,
