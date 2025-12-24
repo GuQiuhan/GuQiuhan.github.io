@@ -40,6 +40,7 @@ permalink: /misc/
   <img src="/assets/img/dessert7.jpg" alt="Cake 1" width="300">
   <img src="/assets/img/dessert8.jpg" alt="Cake 2" width="300">
   <img src="/assets/img/dessert10.jpg" alt="Cake 2" width="300">
+  <img src="/assets/img/dessert12.jpg" alt="Cake 2" width="300">
   <img src="/assets/img/dessert11.jpg" alt="Cake 2" width="300">
   <img src="/assets/img/dessert5.jpg" alt="Cake 1" width="300">
   <img src="/assets/img/dessert9.jpg" alt="Cake 1" width="300">
