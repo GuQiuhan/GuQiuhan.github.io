@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_projects/2_project.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1768188613210,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1768188613210,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: LLM-Based Code Generation Method for Golang Compiler Testing\ndescription: A Code Generation Method Based on CodeT5 for Golang Compiler Testing\nimg: assets/img/llm.jpg\nredirect: https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing\nimportance: 2\ncategory: Software Engineering\n---\n"
+        }
+    ]
+}

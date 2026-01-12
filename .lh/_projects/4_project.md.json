@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_projects/4_project.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1768188616128,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1768188616128,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: Moer-lite -- Research Oriented Physically Based Renderer\ndescription: Building a graphic renderer based on the Monte Carlo path tracing framework.\nimg: assets/img/moer.jpg\nredirect: https://github.com/GuQiuhan/Moer-lite\nimportance: 4\ncategory: Computer Graphics\n---\n\n\n"
+        }
+    ]
+}
