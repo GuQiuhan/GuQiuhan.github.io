@@ -1,0 +1,26 @@
+{
+    "sourceFile": "_projects/7_project.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1768188093660,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1768188099927,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,8 @@\n ---\n layout: page\n title: Cost-Driven Synthesis of Sound Abstract Interpreters\n-description: A novel automated and unified framework for lobally sound abstract interpreters synthesis.\n+description: A novel automated and unified framework for globally sound abstract interpreters synthesis.\n img: assets/img/dl.png\n redirect: https://github.com/GuQiuhan/SAIL-Sound-Abstract-Interpreters-with-LLMs\n importance: 1\n category: Formal Methods\n"
+                },
+                {
+                    "date": 1768188144313,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n ---\n layout: page\n title: Cost-Driven Synthesis of Sound Abstract Interpreters\n description: A novel automated and unified framework for globally sound abstract interpreters synthesis.\n-img: assets/img/dl.png\n+img: assets/img/sail.png\n redirect: https://github.com/GuQiuhan/SAIL-Sound-Abstract-Interpreters-with-LLMs\n importance: 1\n category: Formal Methods\n ---\n"
+                }
+            ],
+            "date": 1768188093660,
+            "name": "Commit-0",
+            "content": "---\nlayout: page\ntitle: Cost-Driven Synthesis of Sound Abstract Interpreters\ndescription: A novel automated and unified framework for lobally sound abstract interpreters synthesis.\nimg: assets/img/dl.png\nredirect: https://github.com/GuQiuhan/SAIL-Sound-Abstract-Interpreters-with-LLMs\nimportance: 1\ncategory: Formal Methods\n---\n"
+        }
+    ]
+}

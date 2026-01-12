@@ -5,7 +5,7 @@ permalink: /projects/
 description: more details can be found in <a href='https://github.com/GuQiuhan/'><font color='#0076df'>my github repository</font></a>.<br>
 nav: true
 nav_order: 3
-display_categories: [Software Engineering, Computer Graphics]
+display_categories: [Formal Methods, Software Engineering, Computer Graphics]
 horizontal: false
 ---
 

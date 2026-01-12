@@ -4,6 +4,6 @@ title: Programs Equivalence Verification
 description: This is a program equivalence verification tool.
 img: assets/img/judge.png
 redirect: https://github.com/GuQiuhan/Equivalence-of-Programs
-importance: 5
+importance: 4
 category: Software Engineering
 ---
