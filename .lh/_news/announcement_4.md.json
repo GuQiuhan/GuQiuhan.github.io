@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_news/announcement_4.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1772676370684,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1772676370684,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ndate: 2026-1-19 15:59:00-0400\ninline: true\nrelated_posts: false\n---\n\nWill be a part of the (Artifact Evaluation Committee for PLDI'26)[https://pldi26.sigplan.org/committee/pldi-2026-pldi-research-artifacts-artifact-evaluation-committee]."
+        }
+    ]
+}
