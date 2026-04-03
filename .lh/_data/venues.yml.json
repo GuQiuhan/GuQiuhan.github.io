@@ -1,0 +1,26 @@
+{
+    "sourceFile": "_data/venues.yml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1775229272037,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1775229319517,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,4 +9,8 @@\n   url: https://www.esec-fse.org/\n \n \"Vision\":\n   color: \"#009f36\"\n+\n+\"PLDI\":\n+  url: https://pldi.acm.org/\n+  color: \"#1072cc\"\n"
+                },
+                {
+                    "date": 1775229369827,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,6 +11,6 @@\n \"Vision\":\n   color: \"#009f36\"\n \n \"PLDI\":\n-  url: https://pldi.acm.org/\n+  url: https://pldi26.sigplan.org/\n   color: \"#1072cc\"\n"
+                }
+            ],
+            "date": 1775229272037,
+            "name": "Commit-0",
+            "content": "\"arXiv\":\n  color: \"#828282\"\n\n\"AJP\":\n  url: https://aapt.scitation.org/journal/ajp\n  color: \"#00369f\"\n\n\"SRC@FSE\":\n  url: https://www.esec-fse.org/\n\n\"Vision\":\n  color: \"#009f36\"\n"
+        }
+    ]
+}

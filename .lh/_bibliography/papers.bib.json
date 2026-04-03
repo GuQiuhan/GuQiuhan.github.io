@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 3,
+            "activePatchIndex": 6,
             "patches": [
                 {
                     "date": 1763492711435,
@@ -20,6 +20,18 @@
                 {
                     "date": 1763494603132,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,8 +12,10 @@\n       eprint={2511.13663},\n       archivePrefix={arXiv},\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n+      html={https://www.arxiv.org/abs/2511.13663},\n+      pdf={2511.13663v1.pdf},\n       selected={true},\n }\n \n \n@@ -27,8 +29,9 @@\n   pages = {2201–2203},\n   numpages = {3},\n   year={2023},\n   url = {https://doi.org/10.1145/3611643.3617850},\n+  html = {https://dl.acm.org/doi/10.1145/3611643.3617850},\n   doi = {10.1145/3611643.3617850},\n   publisher = {Association for Computing Machinery},\n   pdf={conference-paper.pdf},\n   selected={true},\n"
+                },
+                {
+                    "date": 1775228936509,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -19,9 +19,9 @@\n }\n \n \n @inproceedings{10.1145/3611643.3617850,\n-  abbr={FSE},\n+  abbr={SRC@FSE},\n   bibtex_show={true},\n   title={LLM-Based Code Generation Method for Golang Compiler Testing},\n   author={Gu, Qiuhan},\n   booktitle = {ESEC/FSE},\n"
+                },
+                {
+                    "date": 1775229071103,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -23,9 +23,9 @@\n   abbr={SRC@FSE},\n   bibtex_show={true},\n   title={LLM-Based Code Generation Method for Golang Compiler Testing},\n   author={Gu, Qiuhan},\n-  booktitle = {ESEC/FSE},\n+  booktitle = {SRC@FSE},\n   location={San Francisco, CA, USA},\n   pages = {2201–2203},\n   numpages = {3},\n   year={2023},\n"
+                },
+                {
+                    "date": 1775229406137,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n \n @string{aps = {American Physical Society,}}\n \n @misc{gu2025costdrivensynthesissoundabstract,\n-      abbr={arXiv},\n+      abbr={PLDI},\n       bibtex_show={true},\n       title={Cost-Driven Synthesis of Sound Abstract Interpreters}, \n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n       year={2025},\n@@ -23,9 +23,9 @@\n   abbr={SRC@FSE},\n   bibtex_show={true},\n   title={LLM-Based Code Generation Method for Golang Compiler Testing},\n   author={Gu, Qiuhan},\n-  booktitle = {SRC@FSE},\n+  booktitle = {SRC@FSE (1st place)},\n   location={San Francisco, CA, USA},\n   pages = {2201–2203},\n   numpages = {3},\n   year={2023},\n"
                 }
             ],
             "date": 1763492711435,
