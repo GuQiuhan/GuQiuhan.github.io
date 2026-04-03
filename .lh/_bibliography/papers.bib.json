@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 6,
+            "activePatchIndex": 7,
             "patches": [
                 {
                     "date": 1763492711435,
@@ -32,6 +32,10 @@
                 {
                     "date": 1775229406137,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,9 +3,9 @@\n \n @string{aps = {American Physical Society,}}\n \n @misc{gu2025costdrivensynthesissoundabstract,\n-      abbr={arXiv},\n+      abbr={PLDI},\n       bibtex_show={true},\n       title={Cost-Driven Synthesis of Sound Abstract Interpreters}, \n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n       year={2025},\n@@ -23,9 +23,9 @@\n   abbr={SRC@FSE},\n   bibtex_show={true},\n   title={LLM-Based Code Generation Method for Golang Compiler Testing},\n   author={Gu, Qiuhan},\n-  booktitle = {SRC@FSE},\n+  booktitle = {SRC@FSE (1st place)},\n   location={San Francisco, CA, USA},\n   pages = {2201–2203},\n   numpages = {3},\n   year={2023},\n"
+                },
+                {
+                    "date": 1775229534601,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n       abbr={PLDI},\n       bibtex_show={true},\n       title={Cost-Driven Synthesis of Sound Abstract Interpreters}, \n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n-      year={2025},\n+      year={2026},\n       eprint={2511.13663},\n       archivePrefix={arXiv},\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n"
                 }
             ],
             "date": 1763492711435,
