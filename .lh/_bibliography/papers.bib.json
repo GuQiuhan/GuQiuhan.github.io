@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 7,
+            "activePatchIndex": 8,
             "patches": [
                 {
                     "date": 1763492711435,
@@ -36,6 +36,10 @@
                 {
                     "date": 1775229534601,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n       abbr={PLDI},\n       bibtex_show={true},\n       title={Cost-Driven Synthesis of Sound Abstract Interpreters}, \n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n-      year={2025},\n+      year={2026},\n       eprint={2511.13663},\n       archivePrefix={arXiv},\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n"
+                },
+                {
+                    "date": 1775230291671,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n \n @misc{gu2025costdrivensynthesissoundabstract,\n       abbr={PLDI},\n       bibtex_show={true},\n-      title={Cost-Driven Synthesis of Sound Abstract Interpreters}, \n+      title={SAIL: Sound Abstract Interpreters with LLMs}, \n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n       year={2026},\n       eprint={2511.13663},\n       archivePrefix={arXiv},\n"
                 }
             ],
             "date": 1763492711435,
