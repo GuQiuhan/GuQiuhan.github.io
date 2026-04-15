@@ -858,6 +858,14 @@ html.transition *:after {
   transition-delay: 0 !important;
 }
 
+// News section scrollable
+.news {
+  .table-responsive {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+}
+
 // Extra Markdown style (post Customization)
 .post {
   .post-meta {
