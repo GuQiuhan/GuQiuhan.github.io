@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 11,
+            "activePatchIndex": 12,
             "patches": [
                 {
                     "date": 1763492711435,
@@ -52,6 +52,10 @@
                 {
                     "date": 1776789160940,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,9 +13,9 @@\n       archivePrefix={arXiv},\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n       html={https://www.arxiv.org/abs/2511.13663},\n-      pdf={},\n+      pdf={SAIL},\n       selected={true},\n }\n \n \n"
+                },
+                {
+                    "date": 1776789557276,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,9 +13,9 @@\n       archivePrefix={arXiv},\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n       html={https://www.arxiv.org/abs/2511.13663},\n-      pdf={SAIL},\n+      pdf={SAIL.pdf},\n       selected={true},\n }\n \n \n"
                 }
             ],
             "date": 1763492711435,
