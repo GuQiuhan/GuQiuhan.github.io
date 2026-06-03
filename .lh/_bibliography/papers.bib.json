@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 13,
+            "activePatchIndex": 14,
             "patches": [
                 {
                     "date": 1763492711435,
@@ -60,6 +60,10 @@
                 {
                     "date": 1776805529427,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,8 +14,9 @@\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n       html={https://www.arxiv.org/abs/2511.13663},\n       pdf={SAIL.pdf},\n+      code={https://github.com/uiuc-focal-lab/SAIL},\n       selected={true},\n }\n \n \n@@ -32,6 +33,7 @@\n   html = {https://dl.acm.org/doi/10.1145/3611643.3617850},\n   doi = {10.1145/3611643.3617850},\n   publisher = {Association for Computing Machinery},\n   pdf={conference-paper.pdf},\n+  code={https://github.com/GuQiuhan/LLM-Based-Code-Generation-Method-for-Golang-Compiler-Testing},\n   selected={true},\n }\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1780462784449,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,10 +8,9 @@\n       bibtex_show={true},\n       title={SAIL: Sound Abstract Interpreters with LLMs}, \n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n       year={2026},\n-      eprint={2511.13663},\n-      archivePrefix={arXiv},\n+      doi = {10.1145/3808308},\n       primaryClass={cs.PL},\n       url={https://arxiv.org/abs/2511.13663}, \n       html={https://www.arxiv.org/abs/2511.13663},\n       pdf={SAIL.pdf},\n"
                 }
             ],
             "date": 1763492711435,
