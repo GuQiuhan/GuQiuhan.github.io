@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 28,
+            "activePatchIndex": 29,
             "patches": [
                 {
                     "date": 1759968720279,
@@ -120,6 +120,10 @@
                 {
                     "date": 1780903124203,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -17,6 +17,6 @@\n ---\n \n Welcome! I am an incoming PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. Currently I'm focusing on Abstract Interpretation for Artificial Intelligence (AI^2). I'm also broadly interested in Neural Network Verification, Probabilistic Programming, and Differential Privacy.\n \n-Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh's. Before that, I obtained my B.S. in Computer Science from Nanjing University in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). \n+Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from Nanjing University in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). \n \n"
+                },
+                {
+                    "date": 1780903165107,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,8 +15,8 @@\n # selected_projects: true # includes a list of projects marked as \"selected={true}\"\n social: true # includes social icons at the bottom of the page\n ---\n \n-Welcome! I am an incoming PhD student in Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. Currently I'm focusing on Abstract Interpretation for Artificial Intelligence (AI^2). I'm also broadly interested in Neural Network Verification, Probabilistic Programming, and Differential Privacy.\n+Welcome! I am an incoming PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. Currently I'm focusing on Abstract Interpretation for Artificial Intelligence (AI^2). I'm also broadly interested in Neural Network Verification, Probabilistic Programming, and Differential Privacy.\n \n Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from Nanjing University in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). \n \n"
                 }
             ],
             "date": 1759968720279,
