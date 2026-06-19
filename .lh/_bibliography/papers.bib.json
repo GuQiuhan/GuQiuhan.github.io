@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 15,
+            "activePatchIndex": 18,
             "patches": [
                 {
                     "date": 1763492711435,
@@ -68,6 +68,18 @@
                 {
                     "date": 1781026094538,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,10 +10,10 @@\n       author={Qiuhan Gu and Avaljot Singh and Gagandeep Singh},\n       year={2026},\n       doi = {10.1145/3808308},\n       primaryClass={cs.PL},\n-      url={https://arxiv.org/abs/2511.13663}, \n-      html={https://www.arxiv.org/abs/2511.13663},\n+      url={https://dl.acm.org/doi/10.1145/3808308}, \n+      html={https://dl.acm.org/doi/10.1145/3808308},\n       pdf={SAIL.pdf},\n       code={https://github.com/uiuc-focal-lab/SAIL},\n       selected={true},\n }\n"
+                },
+                {
+                    "date": 1781848648517,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,8 +15,9 @@\n       html={https://dl.acm.org/doi/10.1145/3808308},\n       pdf={SAIL.pdf},\n       code={https://github.com/uiuc-focal-lab/SAIL},\n       selected={true},\n+      \n }\n \n \n @inproceedings{10.1145/3611643.3617850,\n"
+                },
+                {
+                    "date": 1781848723827,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,10 +14,11 @@\n       url={https://dl.acm.org/doi/10.1145/3808308}, \n       html={https://dl.acm.org/doi/10.1145/3808308},\n       pdf={SAIL.pdf},\n       code={https://github.com/uiuc-focal-lab/SAIL},\n+      slides={SAILslides.pdf},\n       selected={true},\n-      \n+\n }\n \n \n @inproceedings{10.1145/3611643.3617850,\n"
+                },
+                {
+                    "date": 1781848742855,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,9 +14,9 @@\n       url={https://dl.acm.org/doi/10.1145/3808308}, \n       html={https://dl.acm.org/doi/10.1145/3808308},\n       pdf={SAIL.pdf},\n       code={https://github.com/uiuc-focal-lab/SAIL},\n-      slides={SAILslides.pdf},\n+      slides={SAILslides(PLDI).pdf},\n       selected={true},\n \n }\n \n"
                 }
             ],
             "date": 1763492711435,
