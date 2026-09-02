@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 39,
+            "activePatchIndex": 40,
             "patches": [
                 {
                     "date": 1759968720279,
@@ -164,6 +164,10 @@
                 {
                     "date": 1788323321952,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,9 @@\n # selected_projects: true # includes a list of projects marked as \"selected={true}\"\n social: true # includes social icons at the bottom of the page\n ---\n \n-Welcome! I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. Currently the topics I am exploring include:\n+Welcome! I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. Topics currently I am exploring include:\n \n * Probabilistic Abstract Interpretation\n * Formal Verification of Probabilistic Programs, Bayesian Neural Networks\n * Learning-Guided Synthesis for Formal Methods\n"
+                },
+                {
+                    "date": 1788323494210,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,9 @@\n # selected_projects: true # includes a list of projects marked as \"selected={true}\"\n social: true # includes social icons at the bottom of the page\n ---\n \n-Welcome! I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. Topics currently I am exploring include:\n+Welcome! I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:\n \n * Probabilistic Abstract Interpretation\n * Formal Verification of Probabilistic Programs, Bayesian Neural Networks\n * Learning-Guided Synthesis for Formal Methods\n"
                 }
             ],
             "date": 1759968720279,
