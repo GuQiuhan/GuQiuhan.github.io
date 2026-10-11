@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:
 
-* Probabilistic Abstract Interpretation
+* Probabilistic Abstract Interpretation ([more]({{ '/probabilistic-ai/' | relative_url }}))
 * Formal Verification of Probabilistic Programs, Bayesian Neural Networks
 * Learning-Guided Synthesis for Formal Methods
 
