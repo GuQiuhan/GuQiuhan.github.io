@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 }
 </style>
 
-I am a first-year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:
+I am a first-year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [the University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:
 
 * Probabilistic Abstract Interpretation ([statement]({{ '/probabilistic-ai/' | relative_url }}))
 * Formal Verification of Probabilistic Programs, Bayesian Neural Networks
