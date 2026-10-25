@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 47,
+            "activePatchIndex": 48,
             "patches": [
                 {
                     "date": 1759968720279,
@@ -196,6 +196,10 @@
                 {
                     "date": 1792966991685,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -22,9 +22,9 @@\n   margin: 0 auto;\n }\n </style>\n \n-I am a first-year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:\n+I am a first-year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [the University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:\n \n * Probabilistic Abstract Interpretation ([statement]({{ '/probabilistic-ai/' | relative_url }}))\n * Formal Verification of Probabilistic Programs, Bayesian Neural Networks\n * Learning-Guided Synthesis for Formal Methods\n"
+                },
+                {
+                    "date": 1792967347038,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -28,6 +28,6 @@\n * Probabilistic Abstract Interpretation ([statement]({{ '/probabilistic-ai/' | relative_url }}))\n * Formal Verification of Probabilistic Programs, Bayesian Neural Networks\n * Learning-Guided Synthesis for Formal Methods\n \n-Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from Nanjing University in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). \n+Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from [Nanjing University0(https://www.nju.edu.cn/en/) in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). \n \n"
                 }
             ],
             "date": 1759968720279,

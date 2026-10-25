@@ -29,5 +29,5 @@ I am a first-year PhD student in [Computer Science](https://siebelschool.illinoi
 * Formal Verification of Probabilistic Programs, Bayesian Neural Networks
 * Learning-Guided Synthesis for Formal Methods
 
-Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from Nanjing University in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). 
+Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from [Nanjing University0(https://www.nju.edu.cn/en/) in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). 
 
