@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-vscode-webview://177inhufd7ivo8jc6fcpvlsa3b3431ri101joihp3fbllqi9aiml/_config.yml#L70-L114
+
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # selected_projects: true # includes a list of projects marked as "selected={true}"
@@ -29,5 +29,5 @@ I am a first-year PhD student in [Computer Science](https://siebelschool.illinoi
 * Formal Verification of Probabilistic Programs, Bayesian Neural Networks
 * Learning-Guided Synthesis for Formal Methods
 
-Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from [Nanjing University0(https://www.nju.edu.cn/en/) in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). 
+Prior to starting PhD, I received my M.S. in Computer Science from UIUC in 2026, advised by Prof. Gagandeep Singh. Before that, I obtained my B.S. in Computer Science from [Nanjing University](https://www.nju.edu.cn/en/) in 2024, supervised by [Prof. Linzhang Wang]() and [Prof. Yu Wang](https://itwoi.github.io/) at [Software Engineering Group](https://seg.nju.edu.cn/index.action). 
 
