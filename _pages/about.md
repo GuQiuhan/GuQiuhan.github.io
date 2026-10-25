@@ -16,6 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<style>
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+}
+</style>
+
 Welcome! I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:
 
 * Probabilistic Abstract Interpretation ([statement]({{ '/probabilistic-ai/' | relative_url }}))

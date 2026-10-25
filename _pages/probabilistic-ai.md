@@ -5,6 +5,13 @@ permalink: /probabilistic-ai/
 last_updated: 2026-10-11
 ---
 
+<style>
+.post {
+  max-width: 720px;
+  margin: 0 auto;
+}
+</style>
+
 <p style="color: var(--global-text-color-light); font-style: italic;">Last updated on {{ page.last_updated | date: "%B %-d, %Y" }}</p>
 
 Personally, I have always had a habit of finding connections between the science I study and the philosophy of my everyday life to keep my research and my life from becoming two entirely separate worlds. Therefore, rather than offering another formal introduction to my research, I would like to share something a little more personal: how I think about probabilistic abstract interpretation (at the time of writing), and why I find it fascinating.
