@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
-
+vscode-webview://177inhufd7ivo8jc6fcpvlsa3b3431ri101joihp3fbllqi9aiml/_config.yml#L70-L114
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # selected_projects: true # includes a list of projects marked as "selected={true}"
@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 }
 </style>
 
-I am a first-year PhD student in Computer Science at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:
+I am a first-year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [the University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/), advised by [Prof. Gagandeep Singh](https://ggndpsngh.github.io/). My research interests lie in the intersection of Formal Methods and Machine Learning. I am currently exploring the following research topics:
 
 * Probabilistic Abstract Interpretation ([statement]({{ '/probabilistic-ai/' | relative_url }}))
 * Formal Verification of Probabilistic Programs, Bayesian Neural Networks
