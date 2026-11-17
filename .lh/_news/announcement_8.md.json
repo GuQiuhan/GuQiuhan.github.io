@@ -1,0 +1,22 @@
+{
+    "sourceFile": "_news/announcement_8.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1794937963805,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1794938034209,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,5 +4,5 @@\n inline: true\n related_posts: false\n ---\n \n-⛵️Preprint of our latest work on Abstract Interpreters Synthesis is now available on [arXiv](https://www.arxiv.org/abs/2511.13663).\n\\ No newline at end of file\n+Preprint of our latest work on Probabilistic Abstract Interpretation is now available on [arXiv](https://arxiv.org/abs/2611.19126).\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1794937963805,
+            "name": "Commit-0",
+            "content": "---\nlayout: post\ndate: 2026-11-17 15:59:00-0400\ninline: true\nrelated_posts: false\n---\n\n⛵️Preprint of our latest work on Abstract Interpreters Synthesis is now available on [arXiv](https://www.arxiv.org/abs/2511.13663)."
+        }
+    ]
+}
